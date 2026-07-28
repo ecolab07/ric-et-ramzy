@@ -1,91 +1,229 @@
-# canon-eric-ramzy.md
+# Canon Éric & Ramzy
 
-> Ce document décrit l'ADN du duo indépendamment des œuvres.
-> C'est la référence principale du projet.
-
----
-
-# Principes
-
-## P-001 — Le duo est le héros
-
-On ne rit pas d'Éric.
-
-On ne rit pas de Ramzy.
-
-On rit de ce qu'ils deviennent ensemble.
+> Référentiel du moteur comique Éric & Ramzy.
+>
+> Ce document décrit les principes fondamentaux du duo.
+> Les œuvres (*H*, sketchs, films, interviews...) sont des sources d'extraction, pas le contenu du canon.
 
 ---
 
-## P-002 — Le "oui, et..."
+# 1. Nature du duo
 
-Une idée absurde n'est jamais bloquée.
+## Le duo avant les personnages
 
-Elle est développée.
+Le moteur comique vient d'abord de l'association Éric + Ramzy.
 
-Le duo fonctionne comme une séance d'improvisation.
-
----
-
-## P-003 — Ils sont sincères
-
-Ils ne font jamais semblant d'être idiots.
-
-Ils pensent réellement ce qu'ils disent.
-
-Le spectateur rit.
-
-Pas eux.
+Le rire ne repose pas uniquement sur un personnage drôle, mais sur la collision entre deux façons de penser.
 
 ---
 
-## P-004 — La logique est plus importante que la réalité
+## La complicité comme moteur
 
-Le réel ne gagne jamais.
+Les personnages ne cherchent pas à se combattre.
 
-C'est leur logique qui gouverne la scène.
+Ils construisent ensemble.
 
----
-
-## P-005 — Ils fabriquent leur propre monde
-
-Ils interprètent constamment le réel selon leurs propres règles.
+Une idée mauvaise devient une meilleure mauvaise idée.
 
 ---
 
-## P-006 — L'assurance crée la crédibilité
+## La sincérité absolue
 
-Ils peuvent dire n'importe quoi.
+Ils ne jouent jamais l'idiotie.
 
-Si c'est dit avec assez de conviction, le doute change de camp.
+Ils croient réellement à leur raisonnement.
 
----
-
-## P-007 — Le duo est généreux
-
-Ils construisent les idées ensemble.
-
-Ils ne cherchent pas à voler la réplique.
-
-Le meilleur gag est souvent celui que l'autre permet.
+Le spectateur voit l'écart entre leur certitude et la réalité.
 
 ---
 
-## P-008 — Le rire vient de la bêtise assumée
+# 2. Logique interne
 
-Ils revendiquent eux-mêmes avoir construit leur humour autour de la "bêtise".
+## La réalité est secondaire
 
-Mais cette bêtise est cohérente.
+Le monde extérieur n'est pas la référence.
 
-Elle possède ses propres règles.
+La logique du personnage domine.
 
 ---
 
-# Conséquences pour Ric & Ramzy
+## L'absurde doit être cohérent
 
-Toujours se demander :
+Une idée peut être impossible.
 
-- Est-ce que les deux personnages construisent ensemble la scène ?
-- Est-ce qu'ils croient réellement à ce qu'ils racontent ?
-- Est-ce que le rire provient de leur logique plutôt que d'une simple vanne ?
-- Est-ce que la scène fonctionnerait encore sans punchline ?
+Elle doit néanmoins respecter les règles internes du personnage.
+
+---
+
+## L'erreur devient une vérité
+
+Lorsqu'une mauvaise hypothèse est acceptée, toute la scène s'organise autour d'elle.
+
+Personne ne revient au point de départ.
+
+---
+
+# 3. Mécanique du duo
+
+## La surenchère
+
+Une proposition entraîne immédiatement une proposition plus grande.
+
+Structure :
+
+A propose une idée.
+
+B l'accepte et l'aggrave.
+
+A repart encore plus loin.
+
+---
+
+## La validation mutuelle
+
+Les personnages renforcent leurs erreurs respectives.
+
+Ils ne sont pas le frein l'un de l'autre.
+
+Ils sont l'accélérateur.
+
+---
+
+## Le décalage de perception
+
+Les personnages et le monde ne partagent pas la même lecture de la situation.
+
+Le comique naît de cet écart.
+
+---
+
+# 4. Construction des situations
+
+## Le banal devient extraordinaire
+
+Le point de départ doit souvent être simple.
+
+Le chaos vient de la manière dont les personnages le traitent.
+
+---
+
+## L'escalade permanente
+
+Une scène suit rarement :
+
+problème → résolution.
+
+Elle suit plutôt :
+
+problème → mauvaise solution → nouveau problème → solution pire.
+
+---
+
+## Refus de la solution simple
+
+Une issue évidente existe souvent.
+
+Les personnages passent à côté parce qu'elle ne correspond pas à leur logique.
+
+---
+
+# 5. Langage
+
+## La conviction avant l'intelligence
+
+La force d'une idée vient de la manière dont elle est défendue, pas de sa pertinence.
+
+---
+
+## Le sérieux dans l'absurde
+
+Plus la situation est ridicule, plus le ton doit rester normal.
+
+---
+
+## Le rythme
+
+Le comique repose sur :
+
+- le ping-pong ;
+- la réaction immédiate ;
+- la répétition ;
+- les silences ;
+- les changements de direction brutaux.
+
+---
+
+# 6. Rapport au monde
+
+## Les règles sociales sont fragiles
+
+Les personnages comprennent les codes sociaux de travers.
+
+Ils appliquent leurs propres règles.
+
+---
+
+## L'autorité peut être ignorée
+
+Le statut, la compétence ou la hiérarchie ne garantissent jamais le contrôle de la situation.
+
+---
+
+## La confiance dépasse la compétence
+
+Un personnage sûr de lui peut sembler crédible malgré son absence de maîtrise.
+
+---
+
+# 7. Ce qu'il faut éviter
+
+## La blague isolée
+
+Une bonne scène ne repose pas sur une succession de punchlines.
+
+Elle repose sur une mécanique.
+
+---
+
+## Les personnages conscients d'être drôles
+
+Ils ne doivent jamais faire un clin d'œil au public.
+
+---
+
+## La méchanceté gratuite
+
+Le duo fonctionne mieux quand les personnages sont absurdes que lorsqu'ils sont simplement cruels.
+
+---
+
+## L'intelligence artificielle du scénario
+
+Les personnages ne doivent jamais agir uniquement pour provoquer un gag.
+
+Ils doivent agir selon leur logique.
+
+---
+
+# 8. Test Éric & Ramzy
+
+Une scène appartient probablement au canon si :
+
+- les personnages croient sincèrement à ce qu'ils font ;
+- leur logique interne explique leurs actions ;
+- le duo amplifie le problème au lieu de le résoudre ;
+- l'absurde vient des personnages ;
+- la situation pourrait continuer même sans punchline ;
+- les deux personnages participent à la construction du chaos.
+
+---
+
+# Sources du canon
+
+Documents d'extraction :
+
+- `sketchs-eric-ramzy.md`
+- `serie-h.md`
+- autres analyses à venir
+
+Ces documents alimentent le canon mais ne le remplacent pas.
